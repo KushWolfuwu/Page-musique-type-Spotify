@@ -1,5 +1,5 @@
 # Page musique type Spotify
-## Ce projet est une page musique type Spotify, codée en HTML, CSS et JS. Elle a été conçue pour afficher une liste de chansons, un lecteur de musique et des informations sur l'artiste.
+## Ce projet est une page musique type Spotify de ETC SCHOOL, codée en HTML, CSS et JS. Elle a été conçue pour afficher une liste de chansons, un lecteur de musique et des informations sur l'artiste.
 
 
 # Contenu
